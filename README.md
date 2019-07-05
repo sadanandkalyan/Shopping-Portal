@@ -1,7 +1,7 @@
 # Shopping-Portal
 
 
-Technolgies used: Spring, Bootstrap css, JSP, Java,
+Technologies used: Spring, Bootstrap css, JSP, Java,
 Database: Mysql
 
 CartController.java : It controls the redirections from the cart Page to
